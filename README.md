@@ -49,7 +49,7 @@ You can modify colors, symbols, and segment behavior by editing the `pbsegments.
 ---
 
 ## License
-This theme is open-source and free to use. Contributions are welcome!
+This project is licensed under the MIT License.
 
 ---
 
