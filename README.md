@@ -4,7 +4,7 @@
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 **With Git Repository:**  
 ![Git Prompt](./images/pic_1.png)
@@ -19,7 +19,6 @@
 - Shows the username
 - Indicates Git branch and status
 - Custom symbols for better visual separation
-- Uses `RPROMPT` to align path, user, and Git info to the right
 - Keeps the input area clean with `>` on a new line
 
 ---
@@ -43,14 +42,9 @@
 
 ---
 
-## ⚙️ Customization
+## Customization
 
 You can modify colors, symbols, and segment behavior by editing the `pbsegments.zsh-theme` file. Adjust colors to match your preferred terminal scheme.
-
----
-
-## 📜License
-This theme is open-source and free to use. Contributions are welcome!
 
 ---
 
